@@ -1,0 +1,72 @@
+img{
+    max-width: 80%;
+    margin-top: 20px;
+    border-bottom:10px solid cyan ;
+    border-radius: 0 0 40% 40%;
+    
+}
+body{
+    margin: 0;
+
+}
+h1{
+    font-size: 50px;
+}
+.pink{
+    color: tomato;
+}
+.flex{
+    display: flex;
+    margin-bottom: 100px;
+}
+.banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+
+}
+
+.flexable{
+    width: 50%;
+    padding-left: 5%;
+}
+.btn{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(salmon, tomato);
+    padding: 15px 40px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+.img-m{
+    margin-top: -100px;
+}
+.center{
+    text-align: center;
+}
+.card{
+    width: 40%;
+    margin-left: 5%;
+    padding: 20px;
+    box-shadow: 10px 10px 40px gray;
+
+}
+.basic-sec{
+    background-image: linear-gradient(white,salmon);
+}
+.fs30{
+    font-size: 30px;
+}
+.liner-border{
+    border-left: 7px solid;
+    border-image: linear-gradient(tomato, cyan);
+    border-image-slice:8 ;
+  
+
+}
+hr{
+    margin-bottom: 50px;
+}
+ p{
+    font-size: 20px;
+}
